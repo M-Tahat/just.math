@@ -1,2 +1,0 @@
-# just.math
-Math lessons
